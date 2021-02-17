@@ -1,4 +1,5 @@
 # Landingpage
 
-The name of my website is taywal
+The name of my website is ayomipo
+
 this is the link https://ayomipo-star.github.io/index/
